@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: grid;
+  grid-template-rows: repeat(auto-fit, minmax(8rem, 1fr));
+  grid-gap: 1rem;
+}
+
+.card {
+}
