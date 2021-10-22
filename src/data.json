@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "title": "The first title",
+      "subTitle": "Subtitle for the first title",
+      "shortDescription": "The abstract for the first item",
+      "longDescription": "The abstract for the first item which ponders the relationship between the first item, naval gazing, and its effect on the attention span of adults age 51 and 51.000001.",
+      "buttonLabel": "See more"
+    },
+    {
+      "title": "The second title",
+      "subTitle": "Which is different from the first",
+      "shortDescription": "The abstract for the second item",
+      "longDescription": "The abstract for the second item which has absolutely nothing about pondering the relationship between the first item, naval gazing, and its effect on the attention span of adults age 51 and 51.000001.",
+      "buttonLabel": "See more"
+    },
+    {
+      "title": "The third title",
+      "subTitle": "Which is different from the first and second",
+      "shortDescription": "The abstract for the third item",
+      "longDescription": "The abstract for the third item which examines the paradox about having absolutely nothing and absolutely everything about pondering the relationship between the first item, naval gazing, and its effect on the attention span of adults age 51 and 51.000001.",
+      "buttonLabel": "See more"
+    }
+  ]
+}
